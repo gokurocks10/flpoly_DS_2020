@@ -1,23 +1,23 @@
-## First Name Last Name
+## Kenneth Gordon
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- International & Comparative Dimensions of Business(SP 2020_GEB3373.01 I&T)	
 
-- Course 2
+- Introduction to Business Finance(SP 202
 
-- Course 3
+- Introduction to Data Science(SP 2020_COP2073.01 I&T)	
 
-- Course 4
+- Law, Public Policy, Negotiation, and Busi
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Soccer
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Keyboards as shown in this website <https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=1>
